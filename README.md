@@ -1,5 +1,4 @@
 # FunWithPython
-Using Python In a FUN Way
 
 I have create some python scripts(can help in real life)
 
