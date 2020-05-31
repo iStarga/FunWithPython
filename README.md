@@ -1,6 +1,6 @@
 # FunWithPython
 
-I have create some python scripts(can help in real life)
+# I have create some python scripts(can help in real life)
 
 Scripts Made Till Now
 
